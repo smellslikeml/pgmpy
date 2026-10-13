@@ -3,6 +3,7 @@ from .ChowLiu import ChowLiu
 from .ExpertInLoop import ExpertInLoop
 from .ExpertKnowledge import ExpertKnowledge
 from .GES import GES
+from .GRaSP import GRaSP
 from .HillClimbSearch import HillClimbSearch
 from .IGCI import IGCI
 from .LLMPairwise import LLMPairwise
@@ -19,6 +20,7 @@ __all__ = [
     "ExpertInLoop",
     "ExpertKnowledge",
     "GES",
+    "GRaSP",
     "HillClimbSearch",
     "IGCI",
     "LLMPairwise",
